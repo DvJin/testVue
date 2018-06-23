@@ -1,5 +1,5 @@
 'use strict'
 module.exports = {
   NODE_ENV: '"production"',
-  TESTCONFIG: '"TESTTaTaTa"'
+  TESTCONFIG: '"测试配置修改~"'
 }
